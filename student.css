@@ -1,0 +1,10 @@
+th{
+    font-weight: bold;
+    padding:8px;
+}
+td{
+    padding:5px;
+}
+table{
+    border-collapse: collapse;
+}
